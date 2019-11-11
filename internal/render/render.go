@@ -9,9 +9,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/cweill/gotests/internal/models"
-	"github.com/cweill/gotests/internal/render/bindata"
-	"github.com/cweill/gotests/templates"
+	"github.com/zaynjarvis/gotests/internal/models"
+	"github.com/zaynjarvis/gotests/internal/render/bindata"
+	"github.com/zaynjarvis/gotests/templates"
 )
 
 const (
